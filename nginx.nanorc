@@ -12,3 +12,4 @@ color yellow   start="'$" end="';$"
 color brightblack "(^|[[:space:]])#([^{].*)?$"
 color ,red "[[:space:]\t]+$"
 color ,green "\b( {2,}|\t+)"
+
